@@ -9,4 +9,5 @@ Esta linea representa el primer commit por terminal de GitHub
 
 Esta linea representa el segundo commit por terminal de GitHub
 
-Ejercitanto git pull
+Esta linea representa el primer commit por GitDesktop
+
