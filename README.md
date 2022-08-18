@@ -8,3 +8,5 @@ Esta linea representa el segundo commit por interfaz web en repositorio remoto e
 Esta linea representa el primer commit por terminal de GitHub
 
 Esta linea representa el segundo commit por terminal de GitHub
+
+Ejercitanto git pull
